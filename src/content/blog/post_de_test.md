@@ -27,7 +27,7 @@ That changed.
 
 At Cloudflare, I'm part of a team of seven Solutions Engineers. Out of these seven, five used a Logitech MX Master 3S. I often noticed this but didn't really understand the point of carrying around a heavy, big, somewhat clunky-looking mouse to work when all of us had access to a perfectly engineered trackpad.
 
-## Setting up _Giscus_
+## Setting up _Mac Mouse Fix_
 
 _Giscus_ can be set up easily on [giscus.app](https://giscus.app/), but I will outline the process shortly still.
 
